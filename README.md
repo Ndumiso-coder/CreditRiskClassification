@@ -20,11 +20,11 @@ losses associated with credit defaults.
 11. Lastly, interprete the model performance using the confusing matrix results.
 
 ### Tools & Libraries
-Python 3.x                          - Programming language
-NumPy                               - for mathematical computation
-Pandas                              - for data manipulation and analysis
-Scikit-learn                        - for splitting datasets, training the Logistic Regression model, evaluating performance (accuracy, precision, etc.)
+* Python 3.x                          - Programming language
+* NumPy                               - for mathematical computation
+* Pandas                              - for data manipulation and analysis
+* Scikit-learn                        - for splitting datasets, training the Logistic Regression model, evaluating performance (accuracy, precision, etc.)
                                     and preprocessing (scaling features).
-Matplotlib / Seaborn                - for Exploratory Data Analysis (EDA) and for visualization.
-Jupyter Notebook (optional)         - An interactive environment to write and run Python code. 
+* Matplotlib / Seaborn                - for Exploratory Data Analysis (EDA) and for visualization.
+* Jupyter Notebook (optional)         - An interactive environment to write and run Python code. 
 
